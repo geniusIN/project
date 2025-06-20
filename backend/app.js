@@ -22,6 +22,7 @@ app.get("/api/board", (req, res) => {
 // github action 실행 push
 // github action 실행 push
 // github action 실행 push
+// github action 실행 push
 // vue.js build 이후
 
 const path = require('path');
